@@ -1,6 +1,6 @@
 <?php defined('SYSPATH') or die('No direct script access.');
 /*
- * Класс для получения виджетов
+ * Класс для получения виджетов dsd
  */
 
 class Widget {
