@@ -7,9 +7,9 @@ return array
 		'type'       => 'MySQL',
 		'connection' => array(
 			'hostname'   => 'localhost',
-			'database'   => 'jolie74ru_koh',
-			'username'   => 'jolie74ru_koh',
-			'password'   => 'UUNaCqrOh',
+			'database'   => 'koh',
+			'username'   => 'koh',
+			'password'   => '',
 			'persistent' => FALSE,
 		),
 		'table_prefix' => 'hay_',
